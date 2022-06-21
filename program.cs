@@ -8,7 +8,7 @@ namespace EnviarMensagemWpp
 {
     internal class program
     {
-        static void Mai(string[] args)
+        static void Main(string[] args)
         {
             string mensagem = "";
             int quantidadeMensagem = 0;
