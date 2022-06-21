@@ -35,7 +35,7 @@ namespace EnviarMensagemWpp
                 inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
                 Thread.Sleep(250);
 
-                Console.WhriteLine("Mensagem Enviada")
+                Console.WhriteLine("Mensagem Enviada");
             }
         }
     }    
