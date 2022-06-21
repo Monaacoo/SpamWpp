@@ -12,7 +12,7 @@ namespace EnviarMensagemWpp
         {
             string mensagem = "";
             int quantidadeMensagem = 0;
-            itn contador = 10;
+            int contador = 10;
 
             var inputSimulator = new InputSimulator();
 
